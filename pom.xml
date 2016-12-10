@@ -40,7 +40,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>${project.artifactId}</finalName>
+		<finalName>gustavopolarsa</finalName>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
