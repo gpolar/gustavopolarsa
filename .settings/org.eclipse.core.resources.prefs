@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-encoding//src/main/java=UTF-8
-encoding//src/main/resources=UTF-8
-encoding//src/test/java=UTF-8
-encoding/<project>=UTF-8
+encoding//WebContent/WEB-INF/messages/conteudo.properties=UTF-8
+encoding//WebContent/WEB-INF/messages/conteudo_en.properties=UTF-8
+encoding//WebContent/WEB-INF/messages/conteudo_es.properties=UTF-8
+encoding//WebContent/WEB-INF/messages/conteudo_pt.properties=UTF-8

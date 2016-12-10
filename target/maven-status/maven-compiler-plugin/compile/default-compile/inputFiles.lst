@@ -1,9 +1,4 @@
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/config/RootConfig.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/dao/GenericDao.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/controllers/GpsController.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/config/TutorialWebAppInitializer.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/config/WebConfig.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/controllers/HomeController.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/entity/Curriculum.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/dao/JpaUtil.java
-/home/gpolar/workspace-mars/GustavoPolarSA/src/main/java/com/gustavopolarsa/dao/Dao.java
+/home/gpolar/workspace-mars/GustavoPolarSA/src/com/gustavopolarsa/config/WebConfig.java
+/home/gpolar/workspace-mars/GustavoPolarSA/src/com/gustavopolarsa/config/RootConfig.java
+/home/gpolar/workspace-mars/GustavoPolarSA/src/com/gustavopolarsa/config/TutorialWebAppInitializer.java
+/home/gpolar/workspace-mars/GustavoPolarSA/src/com/gustavopolarsa/controllers/GpsController.java
