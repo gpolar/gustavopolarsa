@@ -12,9 +12,9 @@
          <div class="col-md-3 cv-link">
             <h4 class="font-accident-two-normal uppercase"><spring:message code="footer_idioma"/></h4>
             <div class="dividewhite1"></div>
-            <a href="index?languages=PT"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_pt"/></a>
-            <!-- <a href="index?languages=EN"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_en"/></a>  -->
-            <a href="index?languages=ES"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_es"/></a>
+            <!--<a href="index?languages=PT"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_pt"/></a> -->
+             <a href="index?languages=EN"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_en"/></a> 
+            <!--<a href="index?languages=ES"><i class="fa fa-long-arrow-down" aria-hidden="true"></i><spring:message code="footer_idioma_es"/></a> -->
             <div class="divider-dynamic"></div>
          </div>
          <!-- <div class="col-md-3">
