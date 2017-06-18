@@ -208,50 +208,7 @@
 							</div>
 						</li>
 						
-						<li>
-							<div class="timeline-badge warning">
-								<i class="flaticon-profile5"></i>
-							</div>
-							<div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s"
-								data-wow-offset="10">
-								<p class="timeline-time fontcolor-invert">
-									<i class="glyphicon glyphicon-time"></i> <spring:message code="resume_data_trabalho_5"/> 
-								</p>
-								<!--<div class="timeline-photo timeline-bg04-01"></div>-->
-								<div class="timeline-heading">
-									<br />
-									<br />
-									<h4 class="font-accident-two-normal uppercase"><spring:message code="resume_nome_trabalho_5"/> </h4>
-									<h6 class="uppercase"><spring:message code="resume_cargo_trabalho_5"/> </h6>
-									<p class="small">
-										<spring:message code="resume_desc_trabalho_5"/> 
-									</p>
-								</div>
-							</div>
-						</li>
 						
-						
-						<li>
-							<div class="timeline-badge warning">
-								<i class="flaticon-profile5"></i>
-							</div>
-							<div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s"
-								data-wow-offset="10">
-								<p class="timeline-time fontcolor-invert">
-									<i class="glyphicon glyphicon-time"></i> <spring:message code="resume_data_trabalho_7"/> 
-								</p>
-								<!--<div class="timeline-photo timeline-bg04-01"></div>-->
-								<div class="timeline-heading">
-									<br />
-									<br />
-									<h4 class="font-accident-two-normal uppercase"><spring:message code="resume_nome_trabalho_7"/> </h4>
-									<h6 class="uppercase"><spring:message code="resume_cargo_trabalho_7"/> </h6>
-									<p class="small">
-										<spring:message code="resume_desc_trabalho_7"/> 
-									</p>
-								</div>
-							</div>
-						</li>
 
 					</ul>
 
